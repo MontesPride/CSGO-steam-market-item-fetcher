@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<weapons>
+
+	<Pistols>
+
+		<CZ75-Auto name="CZ75-Auto">
+
+			<skin special="StatTrak" search="Victoria">Victoria</skin>
+			<skin special="StatTrak" search="Xiangliu">Xiangliu</skin>
+			<skin special="StatTrak" search="Yellow Jacket">Yellow Jacket</skin>
+			<skin special="StatTrak" search="The Fuschia Is Now">The Fuschia Is Now</skin>
+			<skin special="StatTrak" search="Red Astor">Red Astor</skin>
+			<skin special="StatTrak" search="Pole Position">Pole Position</skin>
+			<skin special="StatTrak" search="Tigris">Tigris</skin>
+			<skin special="StatTrak" search="Tread Plate">Tread Plate</skin>
+			<skin special="Souvenir" search="Chalice">Chalice</skin>
+			<skin special="StatTrak" search="Polymer">Polymer</skin>
+			<skin special="StatTrak" search="Imprint">Imprint</skin>
+			<skin special="StatTrak" search="Hexane">Hexane</skin>
+			<skin special="StatTrak" search="Twist">Twist</skin>
+			<skin special="StatTrak" search="Poison Dart">Poison Dart</skin>
+			<skin special="StatTrak" search="Crimson Web">Crimson Web</skin>
+			<skin special="None" search="Emerald">Emerald</skin>
+			<skin special="Souvenir" search="Nitro">Nitro</skin>
+			<skin special="None" search="Tuxedo">Tuxedo</skin>
+			<skin special="None" search="Army Sheen">Army Sheen</skin>
+			<skin special="None" search="Green Plaid">Green Plaid</skin>
+
+		</CZ75-Auto>
+
+		<Deagle name="Desert Eagle">
+			
+			<skin special="StatTrak" search="Golden Koi">Golden Koi</skin>
+			<skin special="StatTrak" search="Kumicho Dragon">Kumicho Dragon</skin>
+			<skin special="StatTrak" search="Conspiracy">Conspiracy</skin>
+			<skin special="StatTrak" search="Cobalt Disruption">Cobalt Disruption</skin>
+			<skin special="StatTrak" search="Hypnotic">Hypnotic</skin>
+			<skin special="StatTrak" search="Directive">Directive</skin>
+			<skin special="StatTrak" search="Naga">Naga</skin>
+			<skin special="StatTrak" search="Crimson Web">Crimson Web</skin>
+			<skin special="StatTrak" search="Heirloom">Heirloom</skin>
+			<skin special="None" search="Sunset Storm %E5%A3%B1">Sunset Storm 壱</skin>
+			<skin special="None" search="Sunset Storm %E5%BC%90">Sunset Storm 弐</skin>
+			<skin special="None" search="Pilot">Pilot</skin>
+			<skin special="Souvenir" search="Hand Cannon">Hand Cannon</skin>
+			<skin special="None" search="Blaze">Blaze</skin>
+			<skin special="None" search="Oxide Blaze">Oxide Blaze</skin>
+			<skin special="StatTrak" search="Corinthian">Corinthian</skin>
+			<skin special="StatTrak" search="Bronze Deco">Bronze Deco</skin>
+			<skin special="None" search="Meteorite">Meteorite</skin>
+			<skin special="Souvenir" search="Urban Rubble">Urban Rubble</skin>
+			<skin special="None" search="Night">Night</skin>
+			<skin special="None" search="Midnight Storm">Midnight Storm</skin>
+			<skin special="Souvenir" search="Urban DDPAT">Urban DDPAT</skin>
+			<skin special="Souvenir" search="Mudder">Mudder</skin>
+
+		</Deagle>
+
+		<Berettas name="Dual Berettas">
+			
+			<skin special="StatTrak" search="Royal Consorts">Royal Consorts</skin>
+			<skin special="StatTrak" search="Urban Shock">Urban Shock</skin>
+			<skin special="StatTrak" search="Marina">Marina</skin>
+			<skin special="StatTrak" search="Hemoglobin">Hemoglobin</skin>
+			<skin special="None" search="Duelist">Duelist</skin>
+			<skin special="Souvenir" search="Cobalt Quartz">Cobalt Quartz</skin>
+			<skin special="None" search="Demolition">Demolition</skin>
+			<skin special="StatTrak" search="Ventilators">Ventilators</skin>
+			<skin special="StatTrak" search="Cartel">Cartel</skin>
+			<skin special="StatTrak" search="Dualing Dragons">Dualing Dragons</skin>
+			<skin special="StatTrak" search="Retribution">Retribution</skin>
+			<skin special="StatTrak" search="Panther">Panther</skin>
+			<skin special="StatTrak" search="Black Limba">Black Limba</skin>
+			<skin special="Souvenir" search="Anodized Navy">Anodized Navy</skin>
+			<skin special="Souvenir" search="Stained">Stained</skin>
+			<skin special="None" search="Moon in Libra">Moon in Libra</skin>
+			<skin special="Souvenir" search="Briar">Briar</skin>
+			<skin special="Souvenir" search="Contractor">Contractor</skin>
+			<skin special="Souvenir" search="Colony">Colony</skin>
+
+		</Berettas>
+
+		<Five-Seven name="Five-Seven">
+
+			<skin special="StatTrak" search="Monkey Business">Monkey Business</skin>
+			<skin special="StatTrak" search="Fowl Play">Fowl Play</skin>
+			<skin special="StatTrak" search="Triumvirate">Triumvirate</skin>
+			<skin special="StatTrak" search="Retrobution">Retrobution</skin>
+			<skin special="StatTrak" search="Copper Galaxy">Copper Galaxy</skin>
+			<skin special="StatTrak" search="Case Hardened">Case Hardened</skin>
+			<skin special="None" search="Neon Kimono">Neon Kimono</skin>
+			<skin special="None" search="Capillary">Capillary</skin>
+			<skin special="StatTrak" search="Scumbria">Scumbria</skin>
+			<skin special="StatTrak" search="Violent Daimyo">Violent Daimyo</skin>
+			<skin special="StatTrak" search="Urban Hazard">Urban Hazard</skin>
+			<skin special="StatTrak" search="Kami">Kami</skin>
+			<skin special="StatTrak" search="Nightshade">Nightshade</skin>
+			<skin special="None" search="Nitro">Nitro</skin>
+			<skin special="Souvenir" search="Silver Quartz">Silver Quartz</skin>
+			<skin special="Souvenir" search="Hot Shot">Hot Shot</skin>
+			<skin special="Souvenir" search="Orange Peel">Orange Peel</skin>
+			<skin special="None" search="Candy Apple">Candy Apple</skin>
+			<skin special="Souvenir" search="Contractor">Contractor</skin>
+			<skin special="Souvenir" search="Forest Night">Forest Night</skin>
+			<skin special="None" search="Anodized Gunmetal">Anodized Gunmetal</skin>
+			<skin special="None" search="Jungle">Jungle</skin>
+
+		</Five-Seven>
+
+		<Glock-18 name="Glock-18">
+			
+			<skin special="StatTrak" search="Wasteland Rebel">Wasteland Rebel</skin>
+			<skin special="StatTrak" search="Water Elemental">Water Elemental</skin>
+			<skin special="None" search="Twilight Galaxy">Twilight Galaxy</skin>
+			<skin special="StatTrak" search="Weasel">Weasel</skin>
+			<skin special="StatTrak" search="Royal Legion">Royal Legion</skin>
+			<skin special="StatTrak" search="Grinder">Grinder</skin>
+			<skin special="StatTrak" search="Steel Disruption">Steel Disruption</skin>
+			<skin special="StatTrak" search="Dragon Tattoo">Dragon Tattoo</skin>
+			<skin special="None" search="Fade">Fade</skin>
+			<skin special="None" search="Brass">Brass</skin>
+			<skin special="StatTrak" search="Ironwork">Ironwork</skin>
+			<skin special="StatTrak" search="Wraiths">Wraiths</skin>
+			<skin special="StatTrak" search="Bunsen Burner">Bunsen Burner</skin>
+			<skin special="StatTrak" search="Catacombs">Catacombs</skin>
+			<skin special="StatTrak" search="Blue Fissure">Blue Fissure</skin>
+			<skin special="Souvenir" search="Reactor">Reactor</skin>
+			<skin special="Souvenir" search="Candy Apple">Candy Apple</skin>
+			<skin special="Souvenir" search="Night">Night</skin>
+			<skin special="None" search="Death Rattle">Death Rattle</skin>
+			<skin special="Souvenir" search="Groundwater">Groundwater</skin>
+			<skin special="None" search="Sand Dune">Sand Dune</skin>
+
+		</Glock-18>
+
+		<P2000 name="P2000">
+		
+			<skin special="StatTrak" search="Fire Elemental">Fire Elemental</skin>
+			<skin special="StatTrak" search="Imperial Dragon">Imperial Dragon</skin>
+			<skin special="StatTrak" search="Corticera">Corticera</skin>
+			<skin special="StatTrak" search="Ocean Foam">Ocean Foam</skin>
+			<skin special="StatTrak" search="Handgun">Handgun</skin>
+			<skin special="Souvenir" search="Amber Fade">Amber Fade</skin>
+			<skin special="None" search="Scorpion">Scorpion</skin>
+			<skin special="StatTrak" search="Turf">Turf</skin>
+			<skin special="StatTrak" search="Oceanic">Oceanic</skin>
+			<skin special="StatTrak" search="Imperial">Imperial</skin>
+			<skin special="StatTrak" search="Ivory">Ivory</skin>
+			<skin special="StatTrak" search="Pulse">Pulse</skin>
+			<skin special="StatTrak" search="Red FragCam">Red FragCam</skin>
+			<skin special="Souvenir" search="Chainmail">Chainmail</skin>
+			<skin special="None" search="Silver">Silver</skin>
+			<skin special="None" search="Pathfinder">Pathfinder</skin>
+			<skin special="None" search="Coach Class">Coach Class</skin>
+			<skin special="Souvenir" search="Grassland">Grassland</skin>
+			<skin special="Souvenir" search="Granite Marbleized">Granite Marbleized</skin>
+			<skin special="None" search="Grassland Leaves">Grassland Leaves</skin>
+
+		</P2000>
+
+		<P250 name="P250">
+
+			<skin special="StatTrak" search="Asiimov">Asiimov</skin>
+			<skin special="StatTrak" search="Muertos">Muertos</skin>
+			<skin special="StatTrak" search="Cartel">Cartel</skin>
+			<skin special="StatTrak" search="Undertow">Undertow</skin>
+			<skin special="StatTrak" search="Mehndi">Mehndi</skin>
+			<skin special="None" search="Franklin">Franklin</skin>
+			<skin special="StatTrak" search="Wingshot">Wingshot</skin>
+			<skin special="StatTrak" search="Supernova">Supernova</skin>
+			<skin special="StatTrak" search="Splash">Splash</skin>
+			<skin special="Souvenir" search="Nuclear Threat">Nuclear Threat</skin>
+			<skin special="Souvenir" search="Ripple">Ripple</skin>
+			<skin special="StatTrak" search="Iron Clad">Iron Clad</skin>
+			<skin special="StatTrak" search="Valence">Valence</skin>
+			<skin special="StatTrak" search="Steel Disruption">Steel Disruption</skin>
+			<skin special="StatTrak" search="Hive">Hive</skin>
+			<skin special="None" search="Whiteout">Whiteout</skin>
+			<skin special="None" search="Modern Hunter">Modern Hunter</skin>
+			<skin special="None" search="Crimson Kimono">Crimson Kimono</skin>
+			<skin special="Souvenir" search="Contamination">Contamination</skin>
+			<skin special="Souvenir" search="Metallic DDPAT">Metallic DDPAT</skin>
+			<skin special="None" search="Facets">Facets</skin>
+			<skin special="Souvenir" search="Gunsmoke">Gunsmoke</skin>
+			<skin special="None" search="Mint Kimono">Mint Kimono</skin>
+			<skin special="Souvenir" search="Sand Dune">Sand Dune</skin>
+			<skin special="Souvenir" search="Boreal Forest">Boreal Forest</skin>
+			<skin special="Souvenir" search="Bone Mask">Bone Mask</skin>
+
+		</P250>
+
+		<R8 name="R8 Revolver">
+			
+			<skin special="StatTrak" search="Fade">Fade</skin>
+			<skin special="Souvenir" search="Amber Fade">Amber Fade</skin>
+			<skin special="StatTrak" search="Reboot">Reboot</skin>
+			<skin special="StatTrak" search="Crimson Web">Crimson Web</skin>
+			<skin special="None" search="Bone Mask">Bone Mask</skin>
+
+		</R8>
+
+		<Tec-9 name="Tec-9">
+			
+			<skin special="StatTrak" search="Fuel Injector">Fuel Injector</skin>
+			<skin special="StatTrak" search="Re-Entry">Re-Entry</skin>
+			<skin special="StatTrak" search="Avalanche">Avalanche</skin>
+			<skin special="StatTrak" search="Titanium Bit">Titanium Bit</skin>
+			<skin special="Souvenir" search="Red Quartz">Red Quartz</skin>
+			<skin special="Souvenir" search="Nuclear Threat">Nuclear Threat</skin>
+			<skin special="StatTrak" search="Ice Cap">Ice Cap</skin>
+			<skin special="StatTrak" search="Jambiya">Jambiya</skin>
+			<skin special="StatTrak" search="Isaac">Isaac</skin>
+			<skin special="StatTrak" search="Sandstorm">Sandstorm</skin>
+			<skin special="StatTrak" search="Blue Titanium">Blue Titanium</skin>
+			<skin special="None" search="Terrace">Terrace</skin>
+			<skin special="Souvenir" search="Toxic">Toxic</skin>
+			<skin special="Souvenir" search="Brass">Brass</skin>
+			<skin special="None" search="Ossified">Ossified</skin>
+			<skin special="None" search="Hades">Hades</skin>
+			<skin special="Souvenir" search="VariCamo">VariCamo</skin>
+			<skin special="None" search="Bamboo Forest">Bamboo Forest</skin>
+			<skin special="None" search="Urban DDPAT">Urban DDPAT</skin>
+			<skin special="Souvenir" search="Groundwater">Groundwater</skin>
+			<skin special="Souvenir" search="Army Mesh">Army Mesh</skin>
+			<skin special="None" search="Tornado">Tornado</skin>
+
+		</Tec-9>
+
+		<USP-S name="USP-S">
+			
+			<skin special="StatTrak" search="Neo-Noir">Neo-Noir</skin>
+			<skin special="StatTrak" search="Kill Confirmed">Kill Confirmed</skin>
+			<skin special="StatTrak" search="Caiman">Caiman</skin>
+			<skin special="StatTrak" search="Orion">Orion</skin>
+			<skin special="StatTrak" search="Serum">Serum</skin>
+			<skin special="StatTrak" search="Cyrex">Cyrex</skin>
+			<skin special="StatTrak" search="Guardian">Guardian</skin>
+			<skin special="StatTrak" search="Overgrowth">Overgrowth</skin>
+			<skin special="StatTrak" search="Dark Water">Dark Water</skin>
+			<skin special="Souvenir" search="Road Rash">Road Rash</skin>
+			<skin special="StatTrak" search="Lead Conduit">Lead Conduit</skin>
+			<skin special="StatTrak" search="Torque">Torque</skin>
+			<skin special="StatTrak" search="Blood Tiger">Blood Tiger</skin>
+			<skin special="StatTrak" search="Stainless">Stainless</skin>
+			<skin special="None" search="Business Class">Business Class</skin>
+			<skin special="Souvenir" search="Night Ops">Night Ops</skin>
+			<skin special="None" search="Para Green">Para Green</skin>
+			<skin special="Souvenir" search="Royal Blue">Royal Blue</skin>
+			<skin special="Souvenir" search="Forest Leaves">Forest Leaves</skin>
+
+		</USP-S>
+
+	</Pistols>
+
+	<Rifles>
+
+		<AK-47 name="AK-47">
+			
+			<skin special="StatTrak" search="Bloodsport">Bloodsport</skin>
+			<skin special="StatTrak" search="Neon Revolution">Neon Revolution</skin>
+			<skin special="StatTrak" search="Fuel Injector">Fuel Injector</skin>
+			<skin special="StatTrak" search="Aquamarine Revenge">Aquamarine Revenge</skin>
+			<skin special="StatTrak" search="Wasteland Rebel">Wasteland Rebel</skin>
+			<skin special="StatTrak" search="Jaguar">Jaguar</skin>
+			<skin special="StatTrak" search="Vulcan">Vulcan</skin>
+			<skin special="StatTrak" search="Fire Serpent">Fire Serpent</skin>
+			<skin special="StatTrak" search="Point Disarray">Point Disarray</skin>
+			<skin special="StatTrak" search="Frontside Misty">Frontside Misty</skin>
+			<skin special="StatTrak" search="Cartel">Cartel</skin>
+			<skin special="StatTrak" search="Redline">Redline</skin>
+			<skin special="StatTrak" search="Red Laminate">Red Laminate</skin>
+			<skin special="StatTrak" search="Case Hardened">Case Hardened</skin>
+			<skin special="None" search="Hydroponic">Hydroponic</skin>
+			<skin special="None" search="Jet Set">Jet Set</skin>
+			<skin special="StatTrak" search="Blue Laminate">Blue Laminate</skin>
+			<skin special="None" search="First Class">First Class</skin>
+			<skin special="None" search="Emerald Pinstripe">Emerald Pinstripe</skin>
+			<skin special="StatTrak" search="Elite Build">Elite Build</skin>
+			<skin special="None" search="Black Laminate">Black Laminate</skin>
+			<skin special="Souvenir" search="Safari Mesh">Safari Mesh</skin>
+			<skin special="None" search="Jungle Spray">Jungle Spray</skin>
+			<skin special="None" search="Predator">Predator</skin>
+
+		</AK-47>
+
+		<AUG name="AUG">
+			
+			<skin special="StatTrak" search="Chameleon">Chameleon</skin>
+			<skin special="None" search="Akihabara Accept">Akihabara Accept</skin>
+			<skin special="StatTrak" search="Syd Mead">Syd Mead</skin>
+			<skin special="StatTrak" search="Fleet Flock">Fleet Flock</skin>
+			<skin special="StatTrak" search="Bengal Tiger">Bengal Tiger</skin>
+			<skin special="StatTrak" search="Aristocrat">Aristocrat</skin>
+			<skin special="StatTrak" search="Torque">Torque</skin>
+			<skin special="StatTrak" search="Ricochet">Ricochet</skin>
+			<skin special="StatTrak" search="Wings">Wings</skin>
+			<skin special="None" search="Anodized Navy">Anodized Navy</skin>
+			<skin special="None" search="Hot Rod">Hot Rod</skin>
+			<skin special="None" search="Copperhead">Copperhead</skin>
+			<skin special="Souvenir" search="Radiation Hazard">Radiation Hazard</skin>
+			<skin special="Souvenir" search="Condemned">Condemned</skin>
+			<skin special="None" search="Daedalus">Daedalus</skin>
+			<skin special="Souvenir" search="Contractor">Contractor</skin>
+			<skin special="Souvenir" search="Storm">Storm</skin>
+			<skin special="Souvenir" search="Colony">Colony</skin>
+
+		</AUG>
+
+		<AWP name="AWP">
+			
+			<skin special="StatTrak" search="Hyper Beast">Hyper Beast</skin>
+			<skin special="StatTrak" search="Man-o'-war">Man-o'-war</skin>
+			<skin special="StatTrak" search="Asiimov">Asiimov</skin>
+			<skin special="StatTrak" search="Lightning Strike">Lightning Strike</skin>
+			<skin special="None" search="Medusa">Medusa</skin>
+			<skin special="Souvenir" search="Dragon Lore">Dragon Lore</skin>
+			<skin special="StatTrak" search="Fever Dream">Fever Dream</skin>
+			<skin special="StatTrak" search="Elite Build">Elite Build</skin>
+			<skin special="StatTrak" search="Corticera">Corticera</skin>
+			<skin special="StatTrak" search="Redline">Redline</skin>
+			<skin special="StatTrak" search="Electric Hive">Electric Hive</skin>
+			<skin special="StatTrak" search="Graphite">Graphite</skin>
+			<skin special="StatTrak" search="BOOM">BOOM</skin>
+			<skin special="StatTrak" search="Phobos">Phobos</skin>
+			<skin special="StatTrak" search="Worm God">Worm God</skin>
+			<skin special="Souvenir" search="Pink DDPAT">Pink DDPAT</skin>
+			<skin special="Souvenir" search="Pit Viper">Pit Viper</skin>
+			<skin special="None" search="Snake Camo">Snake Camo</skin>
+			<skin special="None" search="Sun in Leo">Sun in Leo</skin>
+			<skin special="Souvenir" search="Safari Mesh">Safari Mesh</skin>
+
+		</AWP>
+
+		<Famas name="Famas">
+			
+			<skin special="StatTrak" search="Roll Cage">Roll Cage</skin>
+			<skin special="StatTrak" search="Mecha Industries">Mecha Industries</skin>
+			<skin special="StatTrak" search="Djinn">Djinn</skin>
+			<skin special="StatTrak" search="Afterimage">Afterimage</skin>
+			<skin special="StatTrak" search="Valence">Valence</skin>
+			<skin special="StatTrak" search="Neural Net">Neural Net</skin>
+			<skin special="StatTrak" search="Sergeant">Sergeant</skin>
+			<skin special="StatTrak" search="Pulse">Pulse</skin>
+			<skin special="Souvenir" search="Styx">Styx</skin>
+			<skin special="None" search="Spitfire">Spitfire</skin>
+			<skin special="StatTrak" search="Survivor Z">Survivor Z</skin>
+			<skin special="StatTrak" search="Hexane">Hexane</skin>
+			<skin special="StatTrak" search="Doomkitty">Doomkitty</skin>
+			<skin special="Souvenir" search="Teardown">Teardown</skin>
+			<skin special="Souvenir" search="Cyanospatter">Cyanospatter</skin>
+			<skin special="Souvenir" search="Colony">Colony</skin>
+			<skin special="None" search="Contrast Spray">Contrast Spray</skin>
+
+		</Famas>
+
+		<G3SG1 name="G3SG1">
+			
+			<skin special="StatTrak" search="The Executioner">The Executioner</skin>
+			<skin special="StatTrak" search="Flux">Flux</skin>
+			<skin special="StatTrak" search="Stinger">Stinger</skin>
+			<skin special="None" search="Chronos">Chronos</skin>
+			<skin special="StatTrak" search="Ventilator">Ventilator</skin>
+			<skin special="StatTrak" search="Orange Crash">Orange Crash</skin>
+			<skin special="StatTrak" search="Murky">Murky</skin>
+			<skin special="StatTrak" search="Azure Zebra">Azure Zebra</skin>
+			<skin special="StatTrak" search="Demeter">Demeter</skin>
+			<skin special="None" search="Green Apple">Green Apple</skin>
+			<skin special="Souvenir" search="VariCamo">VariCamo</skin>
+			<skin special="None" search="Arctic Camo">Arctic Camo</skin>
+			<skin special="None" search="Orange Kimono">Orange Kimono</skin>
+			<skin special="None" search="Contractor">Contractor</skin>
+			<skin special="Souvenir" search="Desert Storm">Desert Storm</skin>
+			<skin special="Souvenir" search="Jungle Dashed">Jungle Dashed</skin>
+			<skin special="Souvenir" search="Safari Mesh">Safari Mesh</skin>
+			<skin special="Souvenir" search="Polar Camo">Polar Camo</skin>
+
+		</G3SG1>
+
+		<Galil name="Galil AR">
+			
+			<skin special="StatTrak" search="Chatterbox">Chatterbox</skin>
+			<skin special="StatTrak" search="Eco">Eco</skin>
+			<skin special="StatTrak" search="Crimson Tsunami">Crimson Tsunami</skin>
+			<skin special="StatTrak" search="Firefight">Firefight</skin>
+			<skin special="StatTrak" search="Stone Cold">Stone Cold</skin>
+			<skin special="StatTrak" search="Orange DDPAT">Orange DDPAT</skin>
+			<skin special="Souvenir" search="Cerberus">Cerberus</skin>
+			<skin special="StatTrak" search="Black Sand">Black Sand</skin>
+			<skin special="StatTrak" search="Rocket Pop">Rocket Pop</skin>
+			<skin special="StatTrak" search="Kami">Kami</skin>
+			<skin special="StatTrak" search="Sandstorm">Sandstorm</skin>
+			<skin special="StatTrak" search="Blue Titanium">Blue Titanium</skin>
+			<skin special="StatTrak" search="Shattered">Shattered</skin>
+			<skin special="None" search="Aqua Terrace">Aqua Terrace</skin>
+			<skin special="None" search="Tuxedo">Tuxedo</skin>
+			<skin special="None" search="Urban Rubble">Urban Rubble</skin>
+			<skin special="Souvenir" search="VariCamo">VariCamo</skin>
+			<skin special="None" search="Winter Forest">Winter Forest</skin>
+			<skin special="Souvenir" search="Sage Spray">Sage Spray</skin>
+			<skin special="Souvenir" search="Hunting Blind">Hunting Blind</skin>
+
+		</Galil>
+
+		<M4A1-S name="M4A1-S">
+			
+			<skin special="StatTrak" search="Mecha Industries">Mecha Industries</skin>
+			<skin special="StatTrak" search="Chantico's Fire">Chantico's Fire</skin>
+			<skin special="StatTrak" search="Golden Coil">Golden Coil</skin>
+			<skin special="StatTrak" search="Hyper Beast">Hyper Beast</skin>
+			<skin special="StatTrak" search="Cyrex">Cyrex</skin>
+			<skin special="StatTrak" search="Decimator">Decimator</skin>
+			<skin special="StatTrak" search="Atomic Alloy">Atomic Alloy</skin>
+			<skin special="StatTrak" search="Guardian">Guardian</skin>
+			<skin special="None" search="Hot Rod">Hot Rod</skin>
+			<skin special="Souvenir" search="Knight">Knight</skin>
+			<skin special="Souvenir" search="Master Piece">Master Piece</skin>
+			<skin special="StatTrak" search="Flashback">Flashback</skin>
+			<skin special="StatTrak" search="Basilisk">Basilisk</skin>
+			<skin special="StatTrak" search="Bright Water">Bright Water</skin>
+			<skin special="StatTrak" search="Dark Water">Dark Water</skin>
+			<skin special="None" search="Icarus Fell">Icarus Fell</skin>
+			<skin special="Souvenir" search="Nitro">Nitro</skin>
+			<skin special="StatTrak" search="Blood Tiger">Blood Tiger</skin>
+			<skin special="Souvenir" search="VariCamo">VariCamo</skin>
+			<skin special="Souvenir" search="Boreal Forest">Boreal Forest</skin>
+
+		</M4A1-S>
+
+		<M4A4 name="M4A4">
+			
+			<skin special="StatTrak" search="Howl">Howl</skin>
+			<skin special="StatTrak" search="Buzz Kill">Buzz Kill</skin>
+			<skin special="StatTrak" search="The Battlestar">The Battlestar</skin>
+			<skin special="StatTrak" search="Royal Paladin">Royal Paladin</skin>
+			<skin special="StatTrak" search="Bullet Rain">Bullet Rain</skin>
+			<skin special="StatTrak" search="Desert-Strike">Desert-Strike</skin>
+			<skin special="StatTrak" search="Asiimov">Asiimov</skin>
+			<skin special="StatTrak" search="X-Ray">X-Ray</skin>
+			<skin special="StatTrak" search="Desolate Space">Desolate Space</skin>
+			<skin special="StatTrak" search="%E9%BE%8D%E7%8E%8B (Dragon King)">龍王 (Dragon King)</skin>
+			<skin special="None" search="Poseidon">Poseidon</skin>
+			<skin special="StatTrak" search="Evil Daimyo">Evil Daimyo</skin>
+			<skin special="StatTrak" search="Griffin">Griffin</skin>
+			<skin special="StatTrak" search="Zirka">Zirka</skin>
+			<skin special="None" search="Daybreak">Daybreak</skin>
+			<skin special="None" search="Modern Hunter">Modern Hunter</skin>
+			<skin special="StatTrak" search="Faded Zebra">Faded Zebra</skin>
+			<skin special="Souvenir" search="Radiation Hazard">Radiation Hazard</skin>
+			<skin special="Souvenir" search="Urban DDPAT">Urban DDPAT</skin>
+			<skin special="Souvenir" search="Tornado">Tornado</skin>
+			<skin special="None" search="Jungle Tiger">Jungle Tiger</skin>
+			<skin special="None" search="Desert Storm">Desert Storm</skin>
+
+		</M4A4>
+
+		<SCAR-20 name="SCAR-20">
+			
+			<skin special="StatTrak" search="Bloodsport">Bloodsport</skin>
+			<skin special="StatTrak" search="Cardiac">Cardiac</skin>
+			<skin special="StatTrak" search="Cyrex">Cyrex</skin>
+			<skin special="None" search="Splash Jam">Splash Jam</skin>
+			<skin special="StatTrak" search="Powercore">Powercore</skin>
+			<skin special="None" search="Emerald">Emerald</skin>
+			<skin special="None" search="Blueprint">Blueprint</skin>
+			<skin special="StatTrak" search="Outbreak">Outbreak</skin>
+			<skin special="StatTrak" search="Green Marine">Green Marine</skin>
+			<skin special="StatTrak" search="Grotto">Grotto</skin>
+			<skin special="StatTrak" search="Crimson Web">Crimson Web</skin>
+			<skin special="Souvenir" search="Carbon Fiber">Carbon Fiber</skin>
+			<skin special="None" search="Palm">Palm</skin>
+			<skin special="None" search="Army Sheen">Army Sheen</skin>
+			<skin special="Souvenir" search="Storm">Storm</skin>
+			<skin special="Souvenir" search="Sand Mesh">Sand Mesh</skin>
+			<skin special="Souvenir" search="Contractor">Contractor</skin>
+
+		</SCAR-20>
+
+		<SG553 name="SG 553">
+			
+			<skin special="StatTrak" search="Cyrex">Cyrex</skin>
+			<skin special="StatTrak" search="Triarch">Triarch</skin>
+			<skin special="StatTrak" search="Tiger Moth">Tiger Moth</skin>
+			<skin special="StatTrak" search="Pulse">Pulse</skin>
+			<skin special="None" search="Bulldozer">Bulldozer</skin>
+			<skin special="StatTrak" search="Aerial">Aerial</skin>
+			<skin special="StatTrak" search="Atlas">Atlas</skin>
+			<skin special="StatTrak" search="Wave Spray">Wave Spray</skin>
+			<skin special="StatTrak" search="Ultraviolet">Ultraviolet</skin>
+			<skin special="Souvenir" search="Damascus Steel">Damascus Steel</skin>
+			<skin special="Souvenir" search="Anodized Navy">Anodized Navy</skin>
+			<skin special="Souvenir" search="Fallout Warning">Fallout Warning</skin>
+			<skin special="None" search="Traveler">Traveler</skin>
+			<skin special="Souvenir" search="Gator Mesh">Gator Mesh</skin>
+			<skin special="None" search="Army Sheen">Army Sheen</skin>
+			<skin special="Souvenir" search="Waves Perforated">Waves Perforated</skin>
+			<skin special="None" search="Tornado">Tornado</skin>
+
+		</SG553>
+
+		<Scout name="SSG 08">
+			
+			<skin special="StatTrak" search="Dragonfire">Dragonfire</skin>
+			<skin special="StatTrak" search="Blood in the Water">Blood in the Water</skin>
+			<skin special="StatTrak" search="Big Iron">Big Iron</skin>
+			<skin special="StatTrak" search="Ghost Crusader">Ghost Crusader</skin>
+			<skin special="StatTrak" search="Necropos">Necropos</skin>
+			<skin special="StatTrak" search="Dark Water">Dark Water</skin>
+			<skin special="StatTrak" search="Abyss">Abyss</skin>
+			<skin special="StatTrak" search="Slashed">Slashed</skin>
+			<skin special="Souvenir" search="Detour">Detour</skin>
+			<skin special="Souvenir" search="Acid Fade">Acid Fade</skin>
+			<skin special="Souvenir" search="Tropical Storm">Tropical Storm</skin>
+			<skin special="None" search="Mayan Dreams">Mayan Dreams</skin>
+			<skin special="None" search="Sand Dune">Sand Dune</skin>
+			<skin special="Souvenir" search="Blue Spruce">Blue Spruce</skin>
+			<skin special="None" search="Lichen Dashed">Lichen Dashed</skin>
+
+		</Scout>
+
+
+	</Rifles>
+
+	<SMGs>
+
+		<MAC-10 name="MAC-10">
+			
+			<skin special="StatTrak" search="Neon Rider">Neon Rider</skin>
+			<skin special="StatTrak" search="Last Dive">Last Dive</skin>
+			<skin special="StatTrak" search="Malachite">Malachite</skin>
+			<skin special="StatTrak" search="Tatter">Tatter</skin>
+			<skin special="StatTrak" search="Curse">Curse</skin>
+			<skin special="StatTrak" search="Heat">Heat</skin>
+			<skin special="StatTrak" search="Graven">Graven</skin>
+			<skin special="StatTrak" search="Carnivore">Carnivore</skin>
+			<skin special="StatTrak" search="Lapis Gator">Lapis Gator</skin>
+			<skin special="StatTrak" search="Rangeen">Rangeen</skin>
+			<skin special="StatTrak" search="Ultraviolet">Ultraviolet</skin>
+			<skin special="None" search="Fade">Fade</skin>
+			<skin special="Souvenir" search="Nuclear Garden">Nuclear Garden</skin>
+			<skin special="Souvenir" search="Amber Fade">Amber Fade</skin>
+			<skin special="None" search="Commuter">Commuter</skin>
+			<skin special="None" search="Silver">Silver</skin>
+			<skin special="Souvenir" search="Palm">Palm</skin>
+			<skin special="Souvenir" search="Candy Apple">Candy Apple</skin>
+			<skin special="Souvenir" search="Indigo">Indigo</skin>
+			<skin special="None" search="Tornado">Tornado</skin>
+			<skin special="None" search="Urban DDPAT">Urban DDPAT</skin>
+
+		</MAC-10>
+
+		<MP7 name="MP7">
+			
+			<skin special="StatTrak" search="Nemesis">Nemesis</skin>
+			<skin special="StatTrak" search="Impire">Impire</skin>
+			<skin special="StatTrak" search="Special Delivery">Special Delivery</skin>
+			<skin special="StatTrak" search="Ocean Foam">Ocean Foam</skin>
+			<skin special="StatTrak" search="Akoben">Akoben</skin>
+			<skin special="StatTrak" search="Cirrus">Cirrus</skin>
+			<skin special="StatTrak" search="Armor Core">Armor Core</skin>
+			<skin special="StatTrak" search="Urban Hazard">Urban Hazard</skin>
+			<skin special="StatTrak" search="Skulls">Skulls</skin>
+			<skin special="None" search="Full Stop">Full Stop</skin>
+			<skin special="Souvenir" search="Anodized Navy">Anodized Navy</skin>
+			<skin special="None" search="Whiteout">Whiteout</skin>
+			<skin special="Souvenir" search="Gunsmoke">Gunsmoke</skin>
+			<skin special="Souvenir" search="Orange Peel">Orange Peel</skin>
+			<skin special="None" search="Asterion">Asterion</skin>
+			<skin special="None" search="Olive Plaid">Olive Plaid</skin>
+			<skin special="None" search="Forest DDPAT">Forest DDPAT</skin>
+			<skin special="Souvenir" search="Army Recon">Army Recon</skin>
+			<skin special="None" search="Groundwater">Groundwater</skin>
+
+		</MP7>
+
+		<MP9 name="MP9">
+			
+			<skin special="StatTrak" search="Airlock">Airlock</skin>
+			<skin special="StatTrak" search="Ruby Poison Dart">Ruby Poison Dart</skin>
+			<skin special="StatTrak" search="Rose Iron">Rose Iron</skin>
+			<skin special="StatTrak" search="Hypnotic">Hypnotic</skin>
+			<skin special="None" search="Bulldozer">Bulldozer</skin>
+			<skin special="StatTrak" search="Sand Scale">Sand Scale</skin>
+			<skin special="StatTrak" search="Bioleak">Bioleak</skin>
+			<skin special="StatTrak" search="Deadly Poison">Deadly Poison</skin>
+			<skin special="StatTrak" search="Dart">Dart</skin>
+			<skin special="None" search="Pandora's Box">Pandora's Box</skin>
+			<skin special="Souvenir" search="Setting Sun">Setting Sun</skin>
+			<skin special="Souvenir" search="Dark Age">Dark Age</skin>
+			<skin special="Souvenir" search="Hot Rod">Hot Rod</skin>
+			<skin special="Souvenir" search="Orange Peel">Orange Peel</skin>
+			<skin special="None" search="Green Plaid">Green Plaid</skin>
+			<skin special="Souvenir" search="Storm">Storm</skin>
+			<skin special="Souvenir" search="Sand Dashed">Sand Dashed</skin>
+			<skin special="None" search="Dry Season">Dry Season</skin>
+
+		</MP9>
+
+		<PP-Bizon name="PP-Bizon">
+			
+			<skin special="StatTrak" search="Judgement of Anubis">Judgement of Anubis</skin>
+			<skin special="StatTrak" search="Fuel Rod">Fuel Rod</skin>
+			<skin special="StatTrak" search="Blue Streak">Blue Streak</skin>
+			<skin special="StatTrak" search="Osiris">Osiris</skin>
+			<skin special="StatTrak" search="Antique">Antique</skin>
+			<skin special="StatTrak" search="Jungle Slipstream">Jungle Slipstream</skin>
+			<skin special="StatTrak" search="Harvester">Harvester</skin>
+			<skin special="StatTrak" search="Photic Zone">Photic Zone</skin>
+			<skin special="StatTrak" search="Cobalt Halftone">Cobalt Halftone</skin>
+			<skin special="StatTrak" search="Water Sigil">Water Sigil</skin>
+			<skin special="Souvenir" search="Brass">Brass</skin>
+			<skin special="None" search="Rust Coat">Rust Coat</skin>
+			<skin special="None" search="Modern Hunter">Modern Hunter</skin>
+			<skin special="Souvenir" search="Chemical Green">Chemical Green</skin>
+			<skin special="Souvenir" search="Night Ops">Night Ops</skin>
+			<skin special="None" search="Carbon Fiber">Carbon Fiber</skin>
+			<skin special="None" search="Bamboo Print">Bamboo Print</skin>
+			<skin special="Souvenir" search="Sand Dashed">Sand Dashed</skin>
+			<skin special="Souvenir" search="Urban Dashed">Urban Dashed</skin>
+			<skin special="Souvenir" search="Irradiated Alert">Irradiated Alert</skin>
+			<skin special="None" search="Forest Leaves">Forest Leaves</skin>
+
+		</PP-Bizon>
+
+		<P90 name="P90">
+			
+			<skin special="StatTrak" search="Asiimov">Asiimov</skin>
+			<skin special="StatTrak" search="Death by Kitty">Death by Kitty</skin>
+			<skin special="StatTrak" search="Shallow Grave">Shallow Grave</skin>
+			<skin special="StatTrak" search="Shapewood">Shapewood</skin>
+			<skin special="StatTrak" search="Trigon">Trigon</skin>
+			<skin special="StatTrak" search="Cold Blooded">Cold Blooded</skin>
+			<skin special="StatTrak" search="Emerald Dragon">Emerald Dragon</skin>
+			<skin special="StatTrak" search="Chopper">Chopper</skin>
+			<skin special="StatTrak" search="Virus">Virus</skin>
+			<skin special="StatTrak" search="Blind Spot">Blind Spot</skin>
+			<skin special="StatTrak" search="Grim">Grim</skin>
+			<skin special="StatTrak" search="Elite Build">Elite Build</skin>
+			<skin special="StatTrak" search="Module">Module</skin>
+			<skin special="StatTrak" search="Desert Warfare">Desert Warfare</skin>
+			<skin special="Souvenir" search="Teardown">Teardown</skin>
+			<skin special="None" search="Glacier Mesh">Glacier Mesh</skin>
+			<skin special="None" search="Leather">Leather</skin>
+			<skin special="Souvenir" search="Ash Wood">Ash Wood</skin>
+			<skin special="Souvenir" search="Fallout Warning">Fallout Warning</skin>
+			<skin special="Souvenir" search="Storm">Storm</skin>
+			<skin special="Souvenir" search="Sand Spray">Sand Spray</skin>
+			<skin special="Souvenir" search="Scorched">Scorched</skin>
+
+		</P90>
+
+		<UMP-45 name="UMP-45">
+			
+			<skin special="StatTrak" search="Primal Saber">Primal Saber</skin>
+			<skin special="StatTrak" search="Scaffold">Scaffold</skin>
+			<skin special="StatTrak" search="Grand Prix">Grand Prix</skin>
+			<skin special="StatTrak" search="Briefing">Briefing</skin>
+			<skin special="StatTrak" search="Riot">Riot</skin>
+			<skin special="StatTrak" search="Delusion">Delusion</skin>
+			<skin special="StatTrak" search="Labyrinth">Labyrinth</skin>
+			<skin special="StatTrak" search="Corporal">Corporal</skin>
+			<skin special="StatTrak" search="Bone Pile">Bone Pile</skin>
+			<skin special="None" search="Minotaur's Labyrinth">Minotaur's Labyrinth</skin>
+			<skin special="Souvenir" search="Blaze">Blaze</skin>
+			<skin special="None" search="Carbon Fiber">Carbon Fiber</skin>
+			<skin special="Souvenir" search="Gunsmoke">Gunsmoke</skin>
+			<skin special="Souvenir" search="Fallout Warning">Fallout Warning</skin>
+			<skin special="Souvenir" search="Indigo">Indigo</skin>
+			<skin special="Souvenir" search="Scorched">Scorched</skin>
+			<skin special="Souvenir" search="Urban DDPAT">Urban DDPAT</skin>
+			<skin special="None" search="Caramel">Caramel</skin>
+
+		</UMP-45>
+
+	</SMGs>
+
+	<Heavy>
+
+		<MAG-7 name="MAG-7">
+			
+			<skin special="StatTrak" search="Petroglyph">Petroglyph</skin>
+			<skin special="StatTrak" search="Praetorian">Praetorian</skin>
+			<skin special="StatTrak" search="Heat">Heat</skin>
+			<skin special="Souvenir" search="Bulldozer">Bulldozer</skin>
+			<skin special="StatTrak" search="Sonar">Sonar</skin>
+			<skin special="StatTrak" search="Cobalt Core">Cobalt Core</skin>
+			<skin special="StatTrak" search="Firestarter">Firestarter</skin>
+			<skin special="StatTrak" search="Heaven Guard">Heaven Guard</skin>
+			<skin special="StatTrak" search="Memento">Memento</skin>
+			<skin special="None" search="Counter Terrace">Counter Terrace</skin>
+			<skin special="None" search="Hazard">Hazard</skin>
+			<skin special="Souvenir" search="Silver">Silver</skin>
+			<skin special="Souvenir" search="Metallic DDPAT">Metallic DDPAT</skin>
+			<skin special="None" search="Seabird">Seabird</skin>
+			<skin special="Souvenir" search="Storm">Storm</skin>
+			<skin special="Souvenir" search="Irradiated Alert">Irradiated Alert</skin>
+			<skin special="Souvenir" search="Sand Dune">Sand Dune</skin>
+
+		</MAG-7>
+
+		<Nova name="Nova">
+			
+			<skin special="StatTrak" search="Hyper Beast">Hyper Beast</skin>
+			<skin special="StatTrak" search="Bloomstick">Bloomstick</skin>
+			<skin special="StatTrak" search="Antique">Antique</skin>
+			<skin special="StatTrak" search="Gila">Gila</skin>
+			<skin special="StatTrak" search="Koi">Koi</skin>
+			<skin special="StatTrak" search="Rising Skull">Rising Skull</skin>
+			<skin special="StatTrak" search="Graphite">Graphite</skin>
+			<skin special="StatTrak" search="Exo">Exo</skin>
+			<skin special="StatTrak" search="Ranger">Ranger</skin>
+			<skin special="StatTrak" search="Ghost Camo">Ghost Camo</skin>
+			<skin special="StatTrak" search="Tempest">Tempest</skin>
+			<skin special="None" search="Modern Hunter">Modern Hunter</skin>
+			<skin special="None" search="Blaze Orange">Blaze Orange</skin>
+			<skin special="Souvenir" search="Green Apple">Green Apple</skin>
+			<skin special="None" search="Caged Steel">Caged Steel</skin>
+			<skin special="Souvenir" search="Candy Apple">Candy Apple</skin>
+			<skin special="None" search="Moon in Libra">Moon in Libra</skin>
+			<skin special="Souvenir" search="Predator">Predator</skin>
+			<skin special="Souvenir" search="Sand Dune">Sand Dune</skin>
+			<skin special="Souvenir" search="Polar Mesh">Polar Mesh</skin>
+			<skin special="Souvenir" search="Walnut">Walnut</skin>
+			<skin special="None" search="Forest Leaves">Forest Leaves</skin>
+
+		</Nova>
+
+		<Sawed-Off name="Sawed-Off">
+			
+			<skin special="StatTrak" search="The Kraken">The Kraken</skin>
+			<skin special="StatTrak" search="Wasteland Princess">Wasteland Princess</skin>
+			<skin special="StatTrak" search="Limelight">Limelight</skin>
+			<skin special="StatTrak" search="Serenity">Serenity</skin>
+			<skin special="StatTrak" search="Highwayman">Highwayman</skin>
+			<skin special="StatTrak" search="Orange DDPAT">Orange DDPAT</skin>
+			<skin special="StatTrak" search="Zander">Zander</skin>
+			<skin special="StatTrak" search="Fubar">Fubar</skin>
+			<skin special="StatTrak" search="Yorick">Yorick</skin>
+			<skin special="StatTrak" search="Origami">Origami</skin>
+			<skin special="None" search="First Class">First Class</skin>
+			<skin special="Souvenir" search="Full Stop">Full Stop</skin>
+			<skin special="Souvenir" search="Amber Fade">Amber Fade</skin>
+			<skin special="None" search="Copper">Copper</skin>
+			<skin special="Souvenir" search="Rust Coat">Rust Coat</skin>
+			<skin special="Souvenir" search="Snake Camo">Snake Camo</skin>
+			<skin special="None" search="Mosaico">Mosaico</skin>
+			<skin special="None" search="Bamboo Shadow">Bamboo Shadow</skin>
+			<skin special="Souvenir" search="Sage Spray">Sage Spray</skin>
+			<skin special="None" search="Forest DDPAT">Forest DDPAT</skin>
+			<skin special="Souvenir" search="Irradiated Alert">Irradiated Alert</skin>
+
+		</Sawed-Off>
+
+		<XM1014 name="XM1014">
+			
+			<skin special="StatTrak" search="Tranquility">Tranquility</skin>
+			<skin special="StatTrak" search="Seasons">Seasons</skin>
+			<skin special="StatTrak" search="Black Tie">Black Tie</skin>
+			<skin special="StatTrak" search="Teclu Burner">Teclu Burner</skin>
+			<skin special="StatTrak" search="Heaven Guard">Heaven Guard</skin>
+			<skin special="StatTrak" search="Slipstream">Slipstream</skin>
+			<skin special="StatTrak" search="Scumbria">Scumbria</skin>
+			<skin special="StatTrak" search="Quicksilver">Quicksilver</skin>
+			<skin special="StatTrak" search="Red Python">Red Python</skin>
+			<skin special="Souvenir" search="Bone Machine">Bone Machine</skin>
+			<skin special="None" search="Red Leather">Red Leather</skin>
+			<skin special="Souvenir" search="VariCamo Blue">VariCamo Blue</skin>
+			<skin special="None" search="Blaze Orange">Blaze Orange</skin>
+			<skin special="Souvenir" search="CaliCamo">CaliCamo</skin>
+			<skin special="Souvenir" search="Blue Steel">Blue Steel</skin>
+			<skin special="Souvenir" search="Fallout Warning">Fallout Warning</skin>
+			<skin special="Souvenir" search="Blue Spruce">Blue Spruce</skin>
+			<skin special="None" search="Jungle">Jungle</skin>
+			<skin special="None" search="Grassland">Grassland</skin>
+			<skin special="None" search="Urban Perforated">Urban Perforated</skin>
+
+		</XM1014>
+
+		<M249 name="M249">
+			
+			<skin special="StatTrak" search="Emerald Poison Dart">Emerald Poison Dart</skin>
+			<skin special="StatTrak" search="Nebula Crusader">Nebula Crusader</skin>
+			<skin special="StatTrak" search="Spectre">Spectre</skin>
+			<skin special="StatTrak" search="System Lock">System Lock</skin>
+			<skin special="StatTrak" search="Magma">Magma</skin>
+			<skin special="None" search="Shipping Forecast">Shipping Forecast</skin>
+			<skin special="Souvenir" search="Gator Mesh">Gator Mesh</skin>
+			<skin special="None" search="Blizzard Marbleized">Blizzard Marbleized</skin>
+			<skin special="None" search="Impact Drill">Impact Drill</skin>
+			<skin special="Souvenir" search="Contrast Spray">Contrast Spray</skin>
+			<skin special="None" search="Jungle DDPAT">Jungle DDPAT</skin>
+
+		</M249>
+
+		<Negev name="Negev">
+			
+			<skin special="StatTrak" search="Power Loader">Power Loader</skin>
+			<skin special="StatTrak" search="Loudmouth">Loudmouth</skin>
+			<skin special="StatTrak" search="Dazzle">Dazzle</skin>
+			<skin special="StatTrak" search="Man-o'-war">Man-o'-war</skin>
+			<skin special="StatTrak" search="Bratatat">Bratatat</skin>
+			<skin special="StatTrak" search="Desert-Strike">Desert-Strike</skin>
+			<skin special="StatTrak" search="Terrain">Terrain</skin>
+			<skin special="None" search="Anodized Navy">Anodized Navy</skin>
+			<skin special="Souvenir" search="Nuclear Waste">Nuclear Waste</skin>
+			<skin special="Souvenir" search="CaliCamo">CaliCamo</skin>
+			<skin special="None" search="Palm">Palm</skin>
+			<skin special="None" search="Army Sheen">Army Sheen</skin>
+
+		</Negev>
+
+	</Heavy>
+
+	<Knives>
+
+		<Bayonet name="Bayonet">
+			
+			<skin special="StatTrak" search="">Vanilla</skin>
+			<skin special="StatTrak" search="Lore">Lore</skin>
+			<skin special="StatTrak" search="Black Laminate">Black Laminate</skin>
+			<skin special="StatTrak" search="Gamma Doppler">Gamma Doppler</skin>
+			<skin special="StatTrak" search="Autotronic">Autotronic</skin>
+			<skin special="StatTrak" search="Bright Water">Bright Water</skin>
+			<skin special="StatTrak" search="Freehand">Freehand</skin>
+			<skin special="StatTrak" search="Damascus Steel">Damascus Steel</skin>
+			<skin special="StatTrak" search="Doppler">Doppler</skin>
+			<skin special="StatTrak" search="Marble Fade">Marble Fade</skin>
+			<skin special="StatTrak" search="Tiger Tooth">Tiger Tooth</skin>
+			<skin special="StatTrak" search="Rust Coat">Rust Coat</skin>
+			<skin special="StatTrak" search="Ultraviolet">Ultraviolet</skin>
+			<skin special="StatTrak" search="Blue Steel">Blue Steel</skin>
+			<skin special="StatTrak" search="Boreal Forest">Boreal Forest</skin>
+			<skin special="StatTrak" search="Case Hardened">Case Hardened</skin>
+			<skin special="StatTrak" search="Crimson Web">Crimson Web</skin>
+			<skin special="StatTrak" search="Fade">Fade</skin>
+			<skin special="StatTrak" search="Forest DDPAT">Forest DDPAT</skin>
+			<skin special="StatTrak" search="Night">Night</skin>
+			<skin special="StatTrak" search="Safari Mesh">Safari Mesh</skin>
+			<skin special="StatTrak" search="Scorched">Scorched</skin>
+			<skin special="StatTrak" search="Slaughter">Slaughter</skin>
+			<skin special="StatTrak" search="Stained">Stained</skin>
+			<skin special="StatTrak" search="Urban Masked">Urban Masked</skin>
+
+		</Bayonet>
+
+		<Bowie name="Bowie Knife">
+			
+			<skin special="StatTrak" search="">Vanilla</skin>
+			<skin special="StatTrak" search="Blue Steel">Blue Steel</skin>
+			<skin special="StatTrak" search="Boreal Forest">Boreal Forest</skin>
+			<skin special="StatTrak" search="Case Hardened">Case Hardened</skin>
+			<skin special="StatTrak" search="Crimson Web">Crimson Web</skin>
+			<skin special="StatTrak" search="Fade">Fade</skin>
+			<skin special="StatTrak" search="Forest DDPAT">Forest DDPAT</skin>
+			<skin special="StatTrak" search="Night">Night</skin>
+			<skin special="StatTrak" search="Safari Mesh">Safari Mesh</skin>
+			<skin special="StatTrak" search="Scorched">Scorched</skin>
+			<skin special="StatTrak" search="Slaughter">Slaughter</skin>
+			<skin special="StatTrak" search="Stained">Stained</skin>
+			<skin special="StatTrak" search="Urban Masked">Urban Masked</skin>
+
+		</Bowie>
+
+		<Butterfly name="Butterfly Knife">
+			
+			<skin special="StatTrak" search="">Vanilla</skin>
+			<skin special="StatTrak" search="Blue Steel">Blue Steel</skin>
+			<skin special="StatTrak" search="Boreal Forest">Boreal Forest</skin>
+			<skin special="StatTrak" search="Case Hardened">Case Hardened</skin>
+			<skin special="StatTrak" search="Crimson Web">Crimson Web</skin>
+			<skin special="StatTrak" search="Fade">Fade</skin>
+			<skin special="StatTrak" search="Forest DDPAT">Forest DDPAT</skin>
+			<skin special="StatTrak" search="Night">Night</skin>
+			<skin special="StatTrak" search="Safari Mesh">Safari Mesh</skin>
+			<skin special="StatTrak" search="Scorched">Scorched</skin>
+			<skin special="StatTrak" search="Slaughter">Slaughter</skin>
+			<skin special="StatTrak" search="Stained">Stained</skin>
+			<skin special="StatTrak" search="Urban Masked">Urban Masked</skin>
+
+		</Butterfly>
+
+		<Falchion name="Falchion Knife">
+			
+			<skin special="StatTrak" search="">Vanilla</skin>
+			<skin special="StatTrak" search="Blue Steel">Blue Steel</skin>
+			<skin special="StatTrak" search="Boreal Forest">Boreal Forest</skin>
+			<skin special="StatTrak" search="Case Hardened">Case Hardened</skin>
+			<skin special="StatTrak" search="Crimson Web">Crimson Web</skin>
+			<skin special="StatTrak" search="Fade">Fade</skin>
+			<skin special="StatTrak" search="Forest DDPAT">Forest DDPAT</skin>
+			<skin special="StatTrak" search="Night">Night</skin>
+			<skin special="StatTrak" search="Safari Mesh">Safari Mesh</skin>
+			<skin special="StatTrak" search="Scorched">Scorched</skin>
+			<skin special="StatTrak" search="Slaughter">Slaughter</skin>
+			<skin special="StatTrak" search="Stained">Stained</skin>
+			<skin special="StatTrak" search="Urban Masked">Urban Masked</skin>
+
+		</Falchion>
+
+		<Flip name="Flip Knife">
+			
+			<skin special="StatTrak" search="">Vanilla</skin>
+			<skin special="StatTrak" search="Lore">Lore</skin>
+			<skin special="StatTrak" search="Black Laminate">Black Laminate</skin>
+			<skin special="StatTrak" search="Gamma Doppler">Gamma Doppler</skin>
+			<skin special="StatTrak" search="Autotronic">Autotronic</skin>
+			<skin special="StatTrak" search="Bright Water">Bright Water</skin>
+			<skin special="StatTrak" search="Freehand">Freehand</skin>
+			<skin special="StatTrak" search="Damascus Steel">Damascus Steel</skin>
+			<skin special="StatTrak" search="Doppler">Doppler</skin>
+			<skin special="StatTrak" search="Marble Fade">Marble Fade</skin>
+			<skin special="StatTrak" search="Tiger Tooth">Tiger Tooth</skin>
+			<skin special="StatTrak" search="Rust Coat">Rust Coat</skin>
+			<skin special="StatTrak" search="Ultraviolet">Ultraviolet</skin>
+			<skin special="StatTrak" search="Blue Steel">Blue Steel</skin>
+			<skin special="StatTrak" search="Boreal Forest">Boreal Forest</skin>
+			<skin special="StatTrak" search="Case Hardened">Case Hardened</skin>
+			<skin special="StatTrak" search="Crimson Web">Crimson Web</skin>
+			<skin special="StatTrak" search="Fade">Fade</skin>
+			<skin special="StatTrak" search="Forest DDPAT">Forest DDPAT</skin>
+			<skin special="StatTrak" search="Night">Night</skin>
+			<skin special="StatTrak" search="Safari Mesh">Safari Mesh</skin>
+			<skin special="StatTrak" search="Scorched">Scorched</skin>
+			<skin special="StatTrak" search="Slaughter">Slaughter</skin>
+			<skin special="StatTrak" search="Stained">Stained</skin>
+			<skin special="StatTrak" search="Urban Masked">Urban Masked</skin>
+
+		</Flip>
+
+		<Gut name="Gut Knife">
+			
+			<skin special="StatTrak" search="">Vanilla</skin>
+			<skin special="StatTrak" search="Lore">Lore</skin>
+			<skin special="StatTrak" search="Black Laminate">Black Laminate</skin>
+			<skin special="StatTrak" search="Gamma Doppler">Gamma Doppler</skin>
+			<skin special="StatTrak" search="Autotronic">Autotronic</skin>
+			<skin special="StatTrak" search="Bright Water">Bright Water</skin>
+			<skin special="StatTrak" search="Freehand">Freehand</skin>
+			<skin special="StatTrak" search="Damascus Steel">Damascus Steel</skin>
+			<skin special="StatTrak" search="Doppler">Doppler</skin>
+			<skin special="StatTrak" search="Marble Fade">Marble Fade</skin>
+			<skin special="StatTrak" search="Tiger Tooth">Tiger Tooth</skin>
+			<skin special="StatTrak" search="Rust Coat">Rust Coat</skin>
+			<skin special="StatTrak" search="Ultraviolet">Ultraviolet</skin>
+			<skin special="StatTrak" search="Blue Steel">Blue Steel</skin>
+			<skin special="StatTrak" search="Boreal Forest">Boreal Forest</skin>
+			<skin special="StatTrak" search="Case Hardened">Case Hardened</skin>
+			<skin special="StatTrak" search="Crimson Web">Crimson Web</skin>
+			<skin special="StatTrak" search="Fade">Fade</skin>
+			<skin special="StatTrak" search="Forest DDPAT">Forest DDPAT</skin>
+			<skin special="StatTrak" search="Night">Night</skin>
+			<skin special="StatTrak" search="Safari Mesh">Safari Mesh</skin>
+			<skin special="StatTrak" search="Scorched">Scorched</skin>
+			<skin special="StatTrak" search="Slaughter">Slaughter</skin>
+			<skin special="StatTrak" search="Stained">Stained</skin>
+			<skin special="StatTrak" search="Urban Masked">Urban Masked</skin>
+
+		</Gut>
+
+		<Huntsman name="Huntsman Knife">
+			
+			<skin special="StatTrak" search="">Vanilla</skin>
+			<skin special="StatTrak" search="Blue Steel">Blue Steel</skin>
+			<skin special="StatTrak" search="Boreal Forest">Boreal Forest</skin>
+			<skin special="StatTrak" search="Case Hardened">Case Hardened</skin>
+			<skin special="StatTrak" search="Crimson Web">Crimson Web</skin>
+			<skin special="StatTrak" search="Fade">Fade</skin>
+			<skin special="StatTrak" search="Forest DDPAT">Forest DDPAT</skin>
+			<skin special="StatTrak" search="Night">Night</skin>
+			<skin special="StatTrak" search="Safari Mesh">Safari Mesh</skin>
+			<skin special="StatTrak" search="Scorched">Scorched</skin>
+			<skin special="StatTrak" search="Slaughter">Slaughter</skin>
+			<skin special="StatTrak" search="Stained">Stained</skin>
+			<skin special="StatTrak" search="Urban Masked">Urban Masked</skin>
+
+		</Huntsman>
+
+		<Karambit name="Karambit">
+			
+			<skin special="StatTrak" search="">Vanilla</skin>
+			<skin special="StatTrak" search="Lore">Lore</skin>
+			<skin special="StatTrak" search="Black Laminate">Black Laminate</skin>
+			<skin special="StatTrak" search="Gamma Doppler">Gamma Doppler</skin>
+			<skin special="StatTrak" search="Autotronic">Autotronic</skin>
+			<skin special="StatTrak" search="Bright Water">Bright Water</skin>
+			<skin special="StatTrak" search="Freehand">Freehand</skin>
+			<skin special="StatTrak" search="Damascus Steel">Damascus Steel</skin>
+			<skin special="StatTrak" search="Doppler">Doppler</skin>
+			<skin special="StatTrak" search="Marble Fade">Marble Fade</skin>
+			<skin special="StatTrak" search="Tiger Tooth">Tiger Tooth</skin>
+			<skin special="StatTrak" search="Rust Coat">Rust Coat</skin>
+			<skin special="StatTrak" search="Ultraviolet">Ultraviolet</skin>
+			<skin special="StatTrak" search="Blue Steel">Blue Steel</skin>
+			<skin special="StatTrak" search="Boreal Forest">Boreal Forest</skin>
+			<skin special="StatTrak" search="Case Hardened">Case Hardened</skin>
+			<skin special="StatTrak" search="Crimson Web">Crimson Web</skin>
+			<skin special="StatTrak" search="Fade">Fade</skin>
+			<skin special="StatTrak" search="Forest DDPAT">Forest DDPAT</skin>
+			<skin special="StatTrak" search="Night">Night</skin>
+			<skin special="StatTrak" search="Safari Mesh">Safari Mesh</skin>
+			<skin special="StatTrak" search="Scorched">Scorched</skin>
+			<skin special="StatTrak" search="Slaughter">Slaughter</skin>
+			<skin special="StatTrak" search="Stained">Stained</skin>
+			<skin special="StatTrak" search="Urban Masked">Urban Masked</skin>
+
+		</Karambit>
+
+		<M9 name="M9 Bayonet">
+			
+			<skin special="StatTrak" search="">Vanilla</skin>
+			<skin special="StatTrak" search="Lore">Lore</skin>
+			<skin special="StatTrak" search="Black Laminate">Black Laminate</skin>
+			<skin special="StatTrak" search="Gamma Doppler">Gamma Doppler</skin>
+			<skin special="StatTrak" search="Autotronic">Autotronic</skin>
+			<skin special="StatTrak" search="Bright Water">Bright Water</skin>
+			<skin special="StatTrak" search="Freehand">Freehand</skin>
+			<skin special="StatTrak" search="Damascus Steel">Damascus Steel</skin>
+			<skin special="StatTrak" search="Doppler">Doppler</skin>
+			<skin special="StatTrak" search="Marble Fade">Marble Fade</skin>
+			<skin special="StatTrak" search="Tiger Tooth">Tiger Tooth</skin>
+			<skin special="StatTrak" search="Rust Coat">Rust Coat</skin>
+			<skin special="StatTrak" search="Ultraviolet">Ultraviolet</skin>
+			<skin special="StatTrak" search="Blue Steel">Blue Steel</skin>
+			<skin special="StatTrak" search="Boreal Forest">Boreal Forest</skin>
+			<skin special="StatTrak" search="Case Hardened">Case Hardened</skin>
+			<skin special="StatTrak" search="Crimson Web">Crimson Web</skin>
+			<skin special="StatTrak" search="Fade">Fade</skin>
+			<skin special="StatTrak" search="Forest DDPAT">Forest DDPAT</skin>
+			<skin special="StatTrak" search="Night">Night</skin>
+			<skin special="StatTrak" search="Safari Mesh">Safari Mesh</skin>
+			<skin special="StatTrak" search="Scorched">Scorched</skin>
+			<skin special="StatTrak" search="Slaughter">Slaughter</skin>
+			<skin special="StatTrak" search="Stained">Stained</skin>
+			<skin special="StatTrak" search="Urban Masked">Urban Masked</skin>
+
+		</M9>
+
+		<Shadow name="Shadow Daggers">
+			
+			<skin special="StatTrak" search="">Vanilla</skin>
+			<skin special="StatTrak" search="Blue Steel">Blue Steel</skin>
+			<skin special="StatTrak" search="Boreal Forest">Boreal Forest</skin>
+			<skin special="StatTrak" search="Case Hardened">Case Hardened</skin>
+			<skin special="StatTrak" search="Crimson Web">Crimson Web</skin>
+			<skin special="StatTrak" search="Fade">Fade</skin>
+			<skin special="StatTrak" search="Forest DDPAT">Forest DDPAT</skin>
+			<skin special="StatTrak" search="Night">Night</skin>
+			<skin special="StatTrak" search="Safari Mesh">Safari Mesh</skin>
+			<skin special="StatTrak" search="Scorched">Scorched</skin>
+			<skin special="StatTrak" search="Slaughter">Slaughter</skin>
+			<skin special="StatTrak" search="Stained">Stained</skin>
+			<skin special="StatTrak" search="Urban Masked">Urban Masked</skin>
+
+		</Shadow>
+
+	</Knives>
+
+</weapons>
